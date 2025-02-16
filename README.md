@@ -29,7 +29,7 @@ The Food Ordering System allows users to register and log in, browse nearby rest
 
 - Java 11 or higher
 - Node.js and npm
-- PostgreSQL
+- MySQL
 
 ### Installation
 
