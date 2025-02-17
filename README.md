@@ -1,7 +1,4 @@
 # Food Ordering System
-
-A comprehensive food ordering system designed to facilitate the process of ordering food from various restaurants. This system is built to provide users with an intuitive interface to browse, select, and order food items, while offering restaurant owners the tools to manage their menu items and track orders efficiently.
-
 ## Overview
 
 The Food Ordering System allows users to register and log in, browse nearby restaurants, view their menus, add items to a cart, and place orders. Restaurant owners can manage their restaurant information, menu items, and view customer orders. The system includes features for user authentication, session management, and data validation.
