@@ -69,7 +69,6 @@ The Food Ordering System allows users to register and log in, browse nearby rest
   <img width="750" alt="log-in" src="https://github.com/user-attachments/assets/8cf8faad-0c8e-417a-b2f5-a3672d9737e7"/>
 </div>
 <br><br> 
-- Upon successful login, the user is redirected to the main application interface.
 
 ### Browsing and Selecting Restaurants
 
